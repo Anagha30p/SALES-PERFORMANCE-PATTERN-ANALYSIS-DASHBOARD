@@ -84,6 +84,4 @@ The dashboard is built to:
 ---
 
 ## 📄 Screenshot Placeholder
-> *(Add your dashboard screenshots here once available)*  
-```md
 ![Dashboard Preview](https://github.com/Anagha30p/SALES-PERFORMANCE-PATTERN-ANALYSIS-DASHBOARD/blob/main/DASHBOARD%20PHOTO.PNG)
